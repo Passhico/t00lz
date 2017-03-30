@@ -2,11 +2,11 @@
 
 //namespace t00lz; namespaces a partir de la versión 5.3 (intenta no llorar).
 
-
 //php.ini customize.
-ini_set('date.timezone', 'Europe/Madrid');
-ini_set('display_errors', 'Off');
-error_reporting(0);
+//ini_set('date.timezone', 'Europe/Madrid');
+//ini_set('display_errors','on');
+//error_reporting(E_ALL);
+
 
 /**
  * Clase contenedora no instanciable de herramientas y utilidades 
